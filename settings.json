@@ -4,5 +4,7 @@
     "workbench.welcome.enabled": false,
     "files.autoSave": "onWindowChange",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "eslint.run": "onSave",
+    "eslint.autoFixOnSave": true
 }
