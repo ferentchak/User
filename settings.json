@@ -1,12 +1,14 @@
 {
     "editor.wordWrap": "off",
     "window.zoomLevel": 2,
-    "workbench.welcome.enabled": false,
     "files.autoSave": "onWindowChange",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "git.confirmSync": false,
     "eslint.run": "onSave",
     "eslint.autoFixOnSave": true,
     "git.enableSmartCommit": true,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
 }
