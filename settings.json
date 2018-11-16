@@ -6,6 +6,9 @@
     "git.confirmSync": false,
     "eslint.run": "onSave",
     "eslint.autoFixOnSave": true,
+    "eslint.options": {
+        "extensions":[".js",".ts"]
+    },
     "git.enableSmartCommit": true,
     "editor.minimap.enabled": false,
     "git.autofetch": true,
