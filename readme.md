@@ -1,0 +1,1 @@
+https://rally1.rallydev.com/docs/en-us/saas/apps/2.1/doc/index.html#!/api/Rally.app.App-property-settingsScope
